@@ -1,4 +1,5 @@
 # hello-world
 Learning to use GitHub
 
-Hi Humans!
+Hi and Good-bye Humans!
+
